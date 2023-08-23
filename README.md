@@ -1,7 +1,7 @@
 ### HI 👋
 
 
-**LeoCofre/LeoCofre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 # Título de tu Portfolio
 
 Una breve descripción de ti y tu trabajo.
