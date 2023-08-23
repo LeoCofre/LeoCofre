@@ -22,7 +22,7 @@ Breve descripción sobre quién eres, tus habilidades y objetivos.
 - LinkedIn: [Tu Nombre](enlace_a_tu_perfil)
 
 ## Licencia
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=leocofre&layout=compact
 Este proyecto está bajo la Licencia XYZ. Ver el archivo [LICENSE](LICENSE) para más detalles.
 
 Here are some ideas to get you started:
