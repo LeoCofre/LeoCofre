@@ -24,7 +24,7 @@ Breve descripción sobre quién eres, tus habilidades y objetivos.
 
 <br/>
 
-<a href="https://github.com/EnzoGatica">
+<a href="https://github.com/LeoCofre">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeoCofre&theme=buefy&show_icons=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoCofre&theme=buefy&layout=compact" />
 </a>
