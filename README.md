@@ -18,15 +18,18 @@ Breve descripción sobre quién eres, tus habilidades y objetivos.
 
 ## Contacto
 
-- Correo electrónico: tu@email.com
-- LinkedIn: [Tu Nombre](enlace_a_tu_perfil)
+- Correo electrónico: leocofre1981@gmail.com
+- LinkedIn: https://www.linkedin.com/in/leo-cofre-developer/
 
-## Licencia
-https://github-readme-stats.vercel.app/api/top-langs/?username=leocofre&layout=compact
-Este proyecto está bajo la Licencia XYZ. Ver el archivo [LICENSE](LICENSE) para más detalles.
 
-Here are some ideas to get you started:
-<iframe src="https://giphy.com/embed/llarwdtFqG63IlqUR1" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GDevs-android-developer-summit-llarwdtFqG63IlqUR1">via GIPHY</a></p>
+<br/>
+
+<a href="https://github.com/EnzoGatica">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeoCofre&theme=buefy&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoCofre&theme=buefy&layout=compact" />
+</a>
+
+<br/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
