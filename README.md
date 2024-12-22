@@ -33,12 +33,6 @@
   </a>
 </p>
 
-<h3 align="left">Proyectos Destacados:</h3>
-<p align="left">
-  - [Proyecto 1](https://github.com/LeoCofre/Proyecto1): Descripción breve del proyecto.
-  - [Proyecto 2](https://github.com/LeoCofre/Proyecto2): Descripción breve del proyecto.
-</p>
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leocofre&show_icons=true&locale=en&layout=compact" alt="leocofre" />
 </p>
